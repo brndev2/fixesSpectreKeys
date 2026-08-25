@@ -1,6 +1,6 @@
 {
   "271590": {
     "titulo": "GTA V - CONFIGURAÇÃO EXTRA",
-    "mensagem": "[Modo História]\n\nApós instalar o jogo e ativar a licença (botão 'ATIVAR JOGO' em MEUS JOGOS), siga os passos abaixo:\n\n1. Abra a Steam\n2. Clique com botão direito em GTA V\n3. Selecione 'Propriedades'\n4. Em 'Opções de inicialização', digite: -nobattleye\n5. Feche a janela e inicie o jogo normalmente.\n\n\n[FIVEM]\n\nSe você quer jogar FiveM, NÃO precisa ativar a licença!\n\nMas precisará comprar uma conta Rockstar (Não pode ser uma criada na hora) em alguma loja do Discord.\nProcure por 'Conta Rockstar Fivem' no YouTube que você encontra.\n\nApós comprar a conta, use ela para logar no FiveM normalmente."
+    "mensagem": "[Modo História]\n\nPara jogar o modo história siga os passos abaixo:\n\n1. Abra a Steam\n2. Abra a sua Biblioteca\n3. Clique com botão direito no GTA V\n4. Selecione 'Propriedades'\n5. Em 'Opções de inicialização', digite: -nobattleye\n6. Feche a janela e inicie o jogo normalmente.\n\n\n=======[ FIVEM ]=======\n\nSe a sua intenção é jogar FiveM, clique no botão "FiveM", localizado abaixo de "Ativar jogo".\n\nPara jogar, você precisará de uma conta Rockstar. Ela não pode ser uma conta criada na hora, então será necessário adquirir uma conta pronta em alguma loja do Discord.\nProcure por 'Conta Rockstar FiveM' no YouTube para encontrar algumas opções.\n\nApós comprar a conta, use ela para fazer login no FiveM normalmente."
   }
 }
